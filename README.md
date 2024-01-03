@@ -1,4 +1,4 @@
-# Personal Page
+# Diego Vallarino
 Welcome to my space! 
 
 As a Ph.D. in Cliometrics, MSc degrees in Statistics and other in Data Management, an MBA full time specializing in quantitative finance, and a double degree in Business and Accounting, I possess a diverse set of skills for conducting sophisticated quantitative research / analysis in the realms of finance and information services.
