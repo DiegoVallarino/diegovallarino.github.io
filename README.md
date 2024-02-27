@@ -7,5 +7,5 @@ Cliometrics (an economic branch that utilizes economic theory and quantitative m
 
 Join me as we explore the world of economics and quantitative analysis, employing rigorous methods and statistical tools to delve into data, and extract valuable insights.
 
-Feel free to contact me with any questions or recommendations. Good reading!
+Feel free to contact me with any questions or recommendations. Good reading! 
 
